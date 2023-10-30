@@ -31,8 +31,8 @@
 
 <div align="left">
 <img width="12" /> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="color: black;"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="color: #0d1117;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="color: #0d1117;"  />
   <img width="12" /> </a>
   
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer" style="color: #0d1117;">
@@ -90,7 +90,7 @@
   <img width="12" /> </a> 
   
   <img src="https://github.com/LorenzoCiorra/LorenzoCiorra.github.io/blob/main/assets/images/LC.jpg?raw=true" style="width: 40px; height: 40px;" alt="personal website logo"  /> </a> 
-    <img class="centered-and-cropped" width="40" height="40" style="border-radius:20%" src="https://github.com/LorenzoCiorra/LorenzoCiorra.github.io/blob/main/assets/images/LC.jpg?raw=true">
+    <img class="centered-and-cropped" width="40" height="40" style="border-radius:20%" src="https://github.com/LorenzoCiorra/LorenzoCiorra.github.io/blob/main/assets/images/LC.jpg?raw=true"> </a>
   
 </div>
 
