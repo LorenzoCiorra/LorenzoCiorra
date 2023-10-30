@@ -31,7 +31,7 @@
 
 <div align="left">
 <img width="12" /> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="color: #0d1117;"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="color: black;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" /> </a>
   
