@@ -1,7 +1,5 @@
 <h1 align="left">Hey 👋 How is it going?</h1>
 
-###
-
 <p align="left">My name is Lorenzo Ciorra and I'm a Bachelor student in Physics at Universita' degli Studi di Milan.</p>
 
 ###
