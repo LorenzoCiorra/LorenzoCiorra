@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently involved in quantum optics experiments <br>🎯 Goals: Trying to develop a wonderful animated portfolio website (Link below 🙃)</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently involved in quantum optics experiments <br>🎯 Goals: Trying to develop a wonderful animated portfolio website (Link below 🙃)</p>
 
 ###
 
