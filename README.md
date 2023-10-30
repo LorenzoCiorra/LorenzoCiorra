@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [**lorenzociorra.github.io/curriculumvitae**](https://lorenzociorra.github.io/curriculumvitae)
 
-- 📫 Reach me at **lorenzociorra@hotmail.it**
+- 📫 Reach me at **lorenzociorra@hotmail.it** 
 
 
 ###
