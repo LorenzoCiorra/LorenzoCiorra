@@ -20,7 +20,8 @@
 
 - 📄 Know about my experiences [**lorenzociorra.github.io/curriculumvitae**](https://lorenzociorra.github.io/curriculumvitae)
 
-- 📫 Reach me at **lorenzociorra@hotmail.it** 
+
+- 📫 Reach me at **lorenzociorra@hotmail.it**
 
 
 ###
@@ -31,7 +32,7 @@
 
 <div align="left">
 <img width="12" /> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="color: #0d1117;"/> 
+  <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer" style="color: #0d1117;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" style="color: #0d1117;"  />
   <img width="12" /> </a>
   
@@ -85,11 +86,10 @@
   <img width="12" /> </a>
   
   <a href="https://lorenzociorra.github.io/" target="_blank" rel="noreferrer" style="color: #0d1117;">
-  <img src="https://static.vecteezy.com/system/resources/previews/011/477/241/original/lc-icon-logo-design-isolated-on-white-background-vector.jpg" style="width: 40px; height: 40px;" alt="personal website logo"  /> </a> 
+  <img src="https://static.vecteezy.com/system/resources/previews/011/477/241/original/lc-icon-logo-design-isolated-on-white-background-vector.jpg" style="width: 40px; height: 40px;" alt="personal website logo"  /> <img width="12" /> </a> 
     <img class="centered-and-cropped" width="40" height="40" style="border-radius:20%" src="https://static.vecteezy.com/system/resources/previews/011/477/241/original/lc-icon-logo-design-isolated-on-white-background-vector.jpg"> 
   <img width="12" /> </a> 
-  
-  <img src="https://github.com/LorenzoCiorra/LorenzoCiorra.github.io/blob/main/assets/images/LC.jpg?raw=true" style="width: 40px; height: 40px;" alt="personal website logo"  /> </a> 
+  <img src="https://github.com/LorenzoCiorra/LorenzoCiorra.github.io/blob/main/assets/images/LC.jpg?raw=true" style="width: 40px; height: 40px;" alt="personal website logo"  /> <img width="12" /> </a> 
     <img class="centered-and-cropped" width="40" height="40" style="border-radius:20%" src="https://github.com/LorenzoCiorra/LorenzoCiorra.github.io/blob/main/assets/images/LC.jpg?raw=true"> </a>
   
 </div>
