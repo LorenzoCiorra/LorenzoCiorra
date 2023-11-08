@@ -104,3 +104,4 @@
 <h2 align="left"> Randomized Developers Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+![Snake animation](https://github.com/LorenzoCiorra/LorenzoCiorra/blob/output/github-contribution-grid-snake.svg)
