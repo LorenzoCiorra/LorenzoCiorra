@@ -106,6 +106,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LorenzoCiorra/LorenzoCiorra/output/github-contribution-grid-snake.svg">
 </picture>
 
+###
 <h2 align="left"> Randomized Developers Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
