@@ -101,7 +101,6 @@
 ###
 <h2 align="left">🐍 Disappearing Contribution Graph </h2>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LorenzoCiorra/LorenzoCiorra/output/github-contribution-grid-snake-dark.svg">
@@ -113,6 +112,7 @@
 <h2 align="left"> Randomized Developers Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+###
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
