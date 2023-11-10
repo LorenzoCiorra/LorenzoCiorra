@@ -103,6 +103,9 @@
 
 <h2 align="left"> Randomized Developers Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+![snake gif](https://github.com/LorenzoCiorra/LorenzoCiorra/blob/output/github-contribution-grid-snake.gif)
+
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
