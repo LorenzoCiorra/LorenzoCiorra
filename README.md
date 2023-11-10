@@ -104,7 +104,11 @@
 <h2 align="left"> Randomized Developers Meme</h2>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-![snake gif](https://github.com/LorenzoCiorra/LorenzoCiorra/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LorenzoCiorra/LorenzoCiorra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LorenzoCiorra/LorenzoCiorra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LorenzoCiorra/LorenzoCiorra/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
