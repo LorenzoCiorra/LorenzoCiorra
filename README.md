@@ -116,6 +116,9 @@ NOT WORKING ANYMORE
 -->
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 <img src='https://memegen-app.vercel.app/' style="height: 400px;"/>
+### 
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
 <p>
